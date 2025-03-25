@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jibin-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/jibin-portfolio/static/js/main.3e37f591.js",
+    "static/js/453.e737a665.chunk.js": "/jibin-portfolio/static/js/453.e737a665.chunk.js",
+    "index.html": "/jibin-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/jibin-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.3e37f591.js.map": "/jibin-portfolio/static/js/main.3e37f591.js.map",
+    "453.e737a665.chunk.js.map": "/jibin-portfolio/static/js/453.e737a665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3e37f591.js"
+  ]
+}
