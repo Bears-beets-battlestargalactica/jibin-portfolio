@@ -1,4 +1,5 @@
 import React from 'react';
+import ChatWidget from './ChatWidget'; // 👈 Import the chatbot
 
 function App() {
   return (
@@ -85,6 +86,9 @@ function App() {
           </a>
         </div>
       </footer>
+
+      {/* 👇 Chatbot injected at the very end */}
+      <ChatWidget />
     </div>
   );
 }
