@@ -1,15 +1,28 @@
 {
   "files": {
-    "main.css": "/jibin-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/jibin-portfolio/static/js/main.3d275718.js",
+    "main.css": "/jibin-portfolio/static/css/main.6a52b50a.css",
+    "main.js": "/jibin-portfolio/static/js/main.384581f2.js",
     "static/js/453.e737a665.chunk.js": "/jibin-portfolio/static/js/453.e737a665.chunk.js",
+    "static/media/career_fair_25-120.jpg": "/jibin-portfolio/static/media/career_fair_25-120.a9d77054a30555d4d1db.jpg",
+    "static/media/waitmusic.mp3": "/jibin-portfolio/static/media/waitmusic.76afcc5265fec5a966b4.mp3",
+    "static/media/finalwin.mp3": "/jibin-portfolio/static/media/finalwin.ca74a6815093c7cf0fed.mp3",
+    "static/media/twitter.png": "/jibin-portfolio/static/media/twitter.60ace94369a6ac120475.png",
+    "static/media/cloud.jpeg": "/jibin-portfolio/static/media/cloud.487c317a23f102d5c67f.jpeg",
+    "static/media/win_music.mp3": "/jibin-portfolio/static/media/win_music.2ff366834850a6d35a95.mp3",
+    "static/media/who.jpg": "/jibin-portfolio/static/media/who.ee5d42ea1e2e863f7757.jpg",
+    "static/media/apd.jpg": "/jibin-portfolio/static/media/apd.9818f269cb5167c7da8b.jpg",
+    "static/media/gencyber.png": "/jibin-portfolio/static/media/gencyber.054ff83824b9f0729028.png",
+    "static/media/depression.jpeg": "/jibin-portfolio/static/media/depression.3baa5d6dbfe7e51bebb6.jpeg",
+    "static/media/privacy.jpeg": "/jibin-portfolio/static/media/privacy.bceb51599ae0e6b85661.jpeg",
+    "static/media/generative.jpg": "/jibin-portfolio/static/media/generative.594a827281ab2e278bc7.jpg",
+    "static/media/exactloss.mp3": "/jibin-portfolio/static/media/exactloss.9b1ec485004029fde95c.mp3",
     "index.html": "/jibin-portfolio/index.html",
-    "main.e6c13ad2.css.map": "/jibin-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.3d275718.js.map": "/jibin-portfolio/static/js/main.3d275718.js.map",
+    "main.6a52b50a.css.map": "/jibin-portfolio/static/css/main.6a52b50a.css.map",
+    "main.384581f2.js.map": "/jibin-portfolio/static/js/main.384581f2.js.map",
     "453.e737a665.chunk.js.map": "/jibin-portfolio/static/js/453.e737a665.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.3d275718.js"
+    "static/css/main.6a52b50a.css",
+    "static/js/main.384581f2.js"
   ]
 }
